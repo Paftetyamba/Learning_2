@@ -8,6 +8,7 @@ namespace PocketGoogle
 {
     public class Indexer : IIndexer
     {
+        //jhg
         Dictionary<string, Dictionary<int, HashSet<int>>> dictionaryResult = new Dictionary<string, Dictionary<int, HashSet<int>>>();
         public void Add(int id, string documentText)
         {
