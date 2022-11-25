@@ -1,0 +1,15 @@
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\Texts\0.txt
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\Texts\1.txt
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\Texts\2.txt
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\Texts\4.txt
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe.config
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\PocketGoogle.exe
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\PocketGoogle.pdb
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\bin\Debug\nunit.framework.dll
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.AssemblyReference.cache
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.Properties.Resources.resources
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.GenerateResource.cache
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CoreCompileInputs.cache
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.csproj.CopyComplete
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.exe
+C:\Users\satta\OneDrive\Рабочий стол\Турция\C#\Обучение\Практика Целостность\PocketGoogle.csproj\obj\Debug\PocketGoogle.pdb
